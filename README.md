@@ -35,7 +35,7 @@ prismjs will emit the following HTML
 <span class="token punctuation">}</span>  
 ```
 
-This is an example of the CSS I'd like to be able to render.  https://github.com/PrismJS/prism/blob/master/themes/prism-dark.css
+This is an example of the CSS I'd like to use to style the rendered HTML.  https://github.com/PrismJS/prism/blob/master/themes/prism-dark.css
 
 **NOTE:** You only have to worry about the styling that is applied to the span tags for now.  You can ignore the parts of .css that are not needed to style the spans given the guardrails in the list above. (eg no need to margins etc... just ignore them).
 

@@ -2,7 +2,7 @@
 
 I'm looking for a simple rich text renderer for spark that will display HTML-like markup.  Any tag other than span will be ignored.  The span tag will be able to have some number of classes assigned that will be used to style the rendered text.  The classes will be able style text in the following ways:
 
-* color, opacity
+* color, opacity, font size, font face
 * bold, italic, underline
 * multiple classes can be applied to a run of text
 * when multiple classes are applied follow html rules for style precedence
